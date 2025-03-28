@@ -9,3 +9,4 @@ Animal cat = new Cat();
 
 dog.MakeSound();
 cat.MakeSound();
+//Animal animal=new Animal(); Error! Object cannot be created directly from abstract classes
